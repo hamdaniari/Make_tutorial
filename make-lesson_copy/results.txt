@@ -1,0 +1,3 @@
+Book	First	Second	Ratio
+isles	3822	2460	1.55
+abyss	4044	2807	1.44
